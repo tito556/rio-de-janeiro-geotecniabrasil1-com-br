@@ -1,0 +1,51 @@
+# Geotecnia1 — Rio de Janeiro
+
+> Geotechnical engineering services in Rio de Janeiro, Brasil.
+
+## Services
+- [Ancoragens](https://rio-de-janeiro.geotecniabrasil1.com.br/ancoragens/)
+- [Cbr Viario](https://rio-de-janeiro.geotecniabrasil1.com.br/cbr-viario/)
+- [Colunas Brita](https://rio-de-janeiro.geotecniabrasil1.com.br/colunas-brita/)
+- [Densidade Cone Areia](https://rio-de-janeiro.geotecniabrasil1.com.br/densidade-cone-areia/)
+- [Ensaio Cpt](https://rio-de-janeiro.geotecniabrasil1.com.br/ensaio-cpt/)
+- [Ensaios Proctor](https://rio-de-janeiro.geotecniabrasil1.com.br/ensaios-proctor/)
+- [Escavacoes](https://rio-de-janeiro.geotecniabrasil1.com.br/escavacoes/)
+- [Escavacoes Profundas](https://rio-de-janeiro.geotecniabrasil1.com.br/escavacoes-profundas/)
+- [Estabilidade Taludes](https://rio-de-janeiro.geotecniabrasil1.com.br/estabilidade-taludes/)
+- [Estacas](https://rio-de-janeiro.geotecniabrasil1.com.br/estacas/)
+- [Fundacoes](https://rio-de-janeiro.geotecniabrasil1.com.br/fundacoes/)
+- [Geotecnia Viaria](https://rio-de-janeiro.geotecniabrasil1.com.br/geotecnia-viaria/)
+- [Granulometria](https://rio-de-janeiro.geotecniabrasil1.com.br/granulometria/)
+- [Injecoes](https://rio-de-janeiro.geotecniabrasil1.com.br/injecoes/)
+- [Investigacao](https://rio-de-janeiro.geotecniabrasil1.com.br/investigacao/)
+- [Isolamento Sismico](https://rio-de-janeiro.geotecniabrasil1.com.br/isolamento-sismico/)
+- [Lab In Situ](https://rio-de-janeiro.geotecniabrasil1.com.br/lab-in-situ/)
+- [Laboratorio](https://rio-de-janeiro.geotecniabrasil1.com.br/laboratorio/)
+- [Limites Atterberg](https://rio-de-janeiro.geotecniabrasil1.com.br/limites-atterberg/)
+- [Liquefacao](https://rio-de-janeiro.geotecniabrasil1.com.br/liquefacao/)
+- [Masw](https://rio-de-janeiro.geotecniabrasil1.com.br/masw/)
+- [Melhoramento](https://rio-de-janeiro.geotecniabrasil1.com.br/melhoramento/)
+- [Microzoneamento Sismico](https://rio-de-janeiro.geotecniabrasil1.com.br/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://rio-de-janeiro.geotecniabrasil1.com.br/monitoramento-escavacoes/)
+- [Muros Contencao](https://rio-de-janeiro.geotecniabrasil1.com.br/muros-contencao/)
+- [Pavimento Flexivel](https://rio-de-janeiro.geotecniabrasil1.com.br/pavimento-flexivel/)
+- [Pavimento Rigido](https://rio-de-janeiro.geotecniabrasil1.com.br/pavimento-rigido/)
+- [Permeabilidade In Situ](https://rio-de-janeiro.geotecniabrasil1.com.br/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://rio-de-janeiro.geotecniabrasil1.com.br/pocos-inspecao/)
+- [Radiers](https://rio-de-janeiro.geotecniabrasil1.com.br/radiers/)
+- [Refracao Sismica](https://rio-de-janeiro.geotecniabrasil1.com.br/refracao-sismica/)
+- [Resistividade](https://rio-de-janeiro.geotecniabrasil1.com.br/resistividade/)
+- [Sapatas](https://rio-de-janeiro.geotecniabrasil1.com.br/sapatas/)
+- [Sismica](https://rio-de-janeiro.geotecniabrasil1.com.br/sismica/)
+- [Sondagens Spt](https://rio-de-janeiro.geotecniabrasil1.com.br/sondagens-spt/)
+- [Taludes](https://rio-de-janeiro.geotecniabrasil1.com.br/taludes/)
+- [Triaxial](https://rio-de-janeiro.geotecniabrasil1.com.br/triaxial/)
+- [Tuneis Solo Mole](https://rio-de-janeiro.geotecniabrasil1.com.br/tuneis-solo-mole/)
+- [Vibrocompactacao](https://rio-de-janeiro.geotecniabrasil1.com.br/vibrocompactacao/)
+
+## Contact
+- Website: https://rio-de-janeiro.geotecniabrasil1.com.br/
+
+## About
+This site provides geotechnical engineering services in Rio de Janeiro, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
